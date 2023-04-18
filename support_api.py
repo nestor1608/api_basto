@@ -1,5 +1,6 @@
 import pandas as pd
 import geopandas as gpd
+import pymongo
 from pymongo import MongoClient
 from typing import List
 from shapely.geometry import Point
